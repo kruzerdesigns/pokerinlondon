@@ -559,6 +559,8 @@ blockquote {
 
 footer {
     background-color: #262626;
+    position: absolute;
+    bottom: 0;
 }
 
 footer h4 {
